@@ -8,7 +8,7 @@
 * [Status](#status)
 
 ## General info
-A smart Contract that shoe how to deploy other contracts using thier bytecodes.
+A smart Contract that shoe how to deploy other contracts using their bytecodes.
 
 ## Technologies
 * Solidity
